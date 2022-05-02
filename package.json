@@ -1,0 +1,26 @@
+{
+  "name": "realtimechat",
+  "version": "1.0.0",
+  "description": "A clone version of watsapp (backend)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja-Seethur/realTimeChat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Pooja Seethur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja-Seethur/realTimeChat/issues"
+  },
+  "homepage": "https://github.com/Pooja-Seethur/realTimeChat#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
